@@ -4,7 +4,7 @@
  *
  * Este archivo contiene funciones simples para demostrar cómo se utiliza PHPDoc.
  *
- * @author Alba Estepa
+ * @author Alba Estepa Pérez
  * @version 1.0.0
  */
 
